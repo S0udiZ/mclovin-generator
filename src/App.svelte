@@ -62,7 +62,7 @@
       </div>
     </div>
   </form>
-  <div class="grid lg:grid-cols-5 gap-1">
+  <div class="grid lg:grid-cols-4 gap-1">
     {#each $nameArray as name}
       <div class="relative text-black text-xs font-bold">
         <Licence />
